@@ -1,0 +1,6 @@
+{
+  "name": "agent-cord-monitor-de-precios-de-criptomo-mp8s10x3",
+  "version": "1.0.0",
+  "description": "Proyecto de Cord [Gen29]: monitor de precios de criptomonedas con alertas",
+  "main": "index.js"
+}
